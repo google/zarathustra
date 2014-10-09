@@ -13,7 +13,7 @@
  */
 
 
-package org.polimi.zarathustra.malleus;
+package org.polimi.zarathustra.rules;
 
 import java.io.FileWriter;
 import java.io.IOException;

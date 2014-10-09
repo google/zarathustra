@@ -22,7 +22,7 @@ import org.custommonkey.xmlunit.DetailedDiff;
 import org.custommonkey.xmlunit.Diff;
 import org.custommonkey.xmlunit.Difference;
 import org.custommonkey.xmlunit.XMLUnit;
-import org.polimi.zarathustra.malleus.RulesJsonSerializer;
+import org.polimi.zarathustra.rules.RulesJsonSerializer;
 import org.w3c.dom.Document;
 
 import com.google.common.base.Charsets;
